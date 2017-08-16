@@ -1,1 +1,1 @@
-module.exports = require('./lib/lcd');
+module.exports = require('./src/lcd');

@@ -1,40 +1,27 @@
 {
-  "name": "i2c-lcd",
-  "version": "1.0.2",
-  "description": "i2c LCD module",
+  "name": "tessel-i2c-lcd",
+  "version": "0.0.1",
+  "description": "I2C LCD Display Module for Tessel",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sweetpi/i2c-lcd.git"
+    "url": "git://github.com/f11h/tessel-i2c-lcd.git"
   },
   "dependencies": {
-    "i2c": "~0.1.7",
-    "bluebird": "~2.9.13"
+    "bluebird": "^3.5.0"
   },
   "keywords": [
     "PCF8574P",
-    "GPIO 8 way expander",
     "LCD HD44780",
     "nodejs",
-    "raspberry pi"
+    "tessel",
+    "tessel2"
   ],
-  "author": "Oliver Schneider <oliverschneider89+sweetpi@gmail.com> (http://sweetpi.de)",
-  "contributors": [
-    {
-      "name": "Rhys Williams"
-    }
-  ],
+  "author": "Felix Dittrich (https://github.com/f11h)",
   "license": "BSD",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/sweetpi/i2c-lcd/issues"
+    "url": "https://github.com/f11h/tessel-i2c-lcd/issues"
   },
-  "devDependencies": {
-    "coffee-script": "^1.7.1",
-    "gulp": "~3.8.6",
-    "gulp-coffee": "~2.1.1",
-    "gulp-coffeelint": "^0.3.4",
-    "gulp-plumber": "~0.6.4",
-    "gulp-watch": "~0.6.9"
-  }
+  "devDependencies": {}
 }
