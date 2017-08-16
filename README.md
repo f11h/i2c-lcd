@@ -7,13 +7,13 @@ Install
 -------
 
 ```
-npm instal tessel-i2c-lcd
+npm install tessel-i2c-lcd
 ```
 
 Hardware
 --------
 
-Testd with: 
+Tested with: 
 * 1602 LCD Display Module HD44780 (16x2)
 
 Usage Example
