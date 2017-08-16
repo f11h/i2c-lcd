@@ -1,6 +1,6 @@
 {
   "name": "tessel-i2c-lcd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "I2C LCD Display Module for Tessel",
   "main": "index.js",
   "repository": {
