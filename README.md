@@ -21,7 +21,7 @@ Usage Example
 
 ```javascript
 var tessel = require('tessel');
-var LCD = require('tesse-i2c-lcd');
+var LCD = require('tessel-i2c-lcd');
 
 var lcd = new LCD(tessel.port.B, 0x27);
 
